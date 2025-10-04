@@ -1,0 +1,15 @@
+
+fastapi
+uvicorn
+sqlmodel
+psycopg2-binary
+pgvector
+sentence-transformers
+numpy
+scipy
+lightfm
+celery[redis]
+redis
+flower
+alembic
+python-dotenv
